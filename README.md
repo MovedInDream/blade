@@ -1,2 +1,3 @@
 # blade
-艾欧尼亚，昂扬不灭。
+It is for C++ projects...
+Coming soon.
