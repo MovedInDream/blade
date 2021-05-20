@@ -1,3 +1,3 @@
-# blade
+# C++ Projects
 It is for C++ projects...
 Coming soon.
